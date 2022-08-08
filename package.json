@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "xsfunc",
-  "license": "MIT",
+  "license": "CC-BY-4.0",
   "scripts": {
     "build": "webpack --config ./config/webpack.config.prod.js",
     "start": "webpack serve --config ./config/webpack.config.dev.js"
