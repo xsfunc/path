@@ -1,6 +1,6 @@
 # Path NFT project
 
-Generative NFT project on [fxhash.xyz](https://www.fxhash.xyz/generative/16159).
+Generative NFT project on [fxhash.xyz](https://www.fxhash.xyz/generative/16159)
 
 ### Installation
 
@@ -22,4 +22,4 @@ This command starts a local development server and opens up a browser window. Mo
 $ npm build
 ```
 
-This command generates static content into the `dist` directory and zip archive in `dist-zipped` directory.
+This command generates static content into the `dist` directory and zip-archive in `dist-zipped` directory.
